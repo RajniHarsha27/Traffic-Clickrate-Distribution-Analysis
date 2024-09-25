@@ -1,1 +1,4 @@
 # Traffic-Clickrate-Distribution-Analysis
+The objective of this project is to gain a deeper understanding of the traffic patterns of Linkfire website, particularly focusing on the volume and distribution of events associated with digital content links. The goal is to analyze the user engagement data to identify trends, patterns, and insights that will help increase the click-through rates (CTR) of these links. By leveraging data analysis techniques using Python libraries such as Pandas and SciPy, the project will provide insights into key metrics such as total pageviews, user interactions across different countries, and the relationship between various events (clicks, previews, and pageviews).
+
+The ultimate aim is to use the findings to propose data-driven strategies for improving link engagement
